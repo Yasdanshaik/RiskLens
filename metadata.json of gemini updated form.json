@@ -1,0 +1,9 @@
+
+{
+  "name": "RiskLens",
+  "description": "An AI-powered financial companion designed for first-time digital users and students to demystify complex financial systems like loans, insurance, and investments through reasoning and clear explanations, now called RiskLens.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
